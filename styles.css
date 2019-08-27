@@ -1,0 +1,13 @@
+.studentlist {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.headline {
+  text-align: center;
+}
+
+.student {
+  box-shadow: 5px 2px 4px 1px rgba(128, 128, 128, 0.47);
+  margin: 20px;
+  text-align: center;
+}
